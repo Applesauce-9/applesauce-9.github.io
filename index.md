@@ -4,8 +4,8 @@ layout: default
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3906552" style='border:none;'></iframe>
 
-
-[Link to another page](./another-page.html).
+<h1> Social Profiles</h1>
+[LinkedIn](https://www.linkedin.com/in/christian-speed-b5244a294/). [Try Hack Me](https://tryhackme.com/r/p/AppleSauce9).
 
 There should be whitespace between paragraphs.
 
